@@ -19,7 +19,7 @@ The goal was to collect all of this information into tables using PostgreSQL.
 
 ## Summary
 
-![Retiring count](Resources/retiring_count.png)
+![Retiring count](Resources/retirement_count.png)
 
 - 72, 458 employees will need to be hired to fill all the positions
 
