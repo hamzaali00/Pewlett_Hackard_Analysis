@@ -19,37 +19,46 @@ The goal was to collect all of this information into tables using PostgreSQL.
 
 ## Summary
 
+![Retiring count](Resources/retiring_count.png)
+
 - 72, 458 employees will need to be hired to fill all the positions
+
 
 ![Mentors for Senior Engineers](Resources/mentorship_sen_eng.png)
 
 - Of the 29,516 retiring Senior Engineers, there are 399 eligible to mentor
 - Each mentor would have to mentor about 65 incoming employees
 
+
 ![Mentors for Senior Staff](Resources/mentorship_sen_staff.png)
 
 - Of the 24,926 retiring Senior Staff, there are 298 eligible to mentor
 - Each mentor would have to mentor about 84 incoming employees
+
 
 ![Mentors for Engineer](Resources/mentorship_eng.png)
 
 - Of the 9,285 retiring Engineers, there are 302 eligible to mentor
 - Each mentor would have to mentor about 31 incoming employees
 
+
 ![Mentors for Staff](Resources/mentorship_staff.png)
 
 - Of the 7,636 retiring Staff, there are 426 eligible to mentor
 - Each mentor would have to mentor about 18 incoming employees
+
 
 ![Mentors for Technique Leader](Resources/mentorship_tech_lead.png)
 
 - Of the 3,603 retiring Technique Leaders, there are 77 eligible to mentor
 - Each mentor would have to mentor about 47 incoming employees
 
+
 ![Mentors for Assistant Engineer](Resources/mentorship_ass_eng.png)
 
 - Of the 1,090 retiring Assistant Engineers, there are 47 eligible to mentor
 - Each mentor would have to mentor about 23 incoming employees
+
 
 ![Mentors for Manager](Resources/mentorship_man.png)
 
