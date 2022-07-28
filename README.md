@@ -63,3 +63,9 @@ The goal was to collect all of this information into tables using PostgreSQL.
 ![Mentors for Manager](Resources/mentorship_man.png)
 
 - Of the 2 retiring Managers, there are 0 eligible to mentor
+
+
+I believe there are enough qualified, retirement-ready employees in the department to mentor the next wave of employees.
+It will be difficult for the Senior Engineers and Senior Staff, but I believe it is do-able.
+For the managers, only 2 are retiring so I don't think that will be a problem.
+
